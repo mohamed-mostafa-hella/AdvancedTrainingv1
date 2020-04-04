@@ -5,6 +5,7 @@ this is a simple app training on advanced topics in android development ( clean 
 
 - Data Binding.
 - RecyclerView.
+- CardView.
 - MVVM design pattern.
 - REST API( retrofit) .
 - CallBack .
