@@ -3,17 +3,11 @@ this is a simple app training on advanced topics in android development ( clean 
 
 # what I used to do this .
 
--Data Binding
-
--Butterknife Lip.
-
--RecyclerView.
-
--MVVM design pattern.
-
--REST API( retrofit) .
-
--CallBack .
+- Data Binding.
+- RecyclerView.
+- MVVM design pattern.
+- REST API( retrofit) .
+- CallBack .
 
 # end 
 i hope you like it.
