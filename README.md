@@ -1,5 +1,6 @@
 # Advanced_training_V1
 this is a simple app training on advanced topics in android development ( clean code ) .
+this app receve data from api and show thim in recycler view .
 
 # what I used to do this .
 
